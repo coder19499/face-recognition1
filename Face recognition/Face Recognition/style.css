@@ -1,0 +1,4 @@
+body { color: white; 
+    background: pink; 
+} 
+.heading { width: 80%; font-size: 22px; } .name_of_objects, #object_name, #object_Accuracy { color: yellow; }
